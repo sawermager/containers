@@ -2,9 +2,9 @@
 Containers, lxc/lxd, docker, coreos
 &nbsp;
 &nbsp;
-### docker/  
+### docker/  course materials at github.com/docker-production-aws
 #### How to create/deploy docker applications in AWS  
-#### Goals:  
+#### Goals:  Deploy microservices application to production using docker/AWS
 - Infrastructure as Code  
 - Automated deployments  
 - Deploy using Ansible and CloudFormation  
